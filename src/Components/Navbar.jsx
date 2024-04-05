@@ -13,7 +13,7 @@ function Navbar() {
         </div>
 
         <div className='flex gap-8'>
-            <Link className="hover:underline hover:underline-offset-1  hover:text-gray-500">AI Tool Categories</Link>
+            <Link to="ai-tool" className="hover:underline hover:underline-offset-1  hover:text-gray-500">AI Tool Categories</Link>
             <Link className="hover:underline hover:underline-offset-1  hover:text-gray-500">Deals</Link>
             <Link to="/submit-tool" className="hover:underline hover:underline-offset-1  hover:text-gray-500">Submit A Tool</Link>
             <Link className="hover:underline hover:underline-offset-1  hover:text-gray-500">Advertise</Link>
