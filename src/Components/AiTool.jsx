@@ -68,7 +68,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">AI Video tools</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -98,6 +98,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Video Tools</a>
@@ -110,7 +111,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">AI Text Generators</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -140,6 +141,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Text Tools</a>
@@ -151,7 +153,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">AI Business Tools</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -181,6 +183,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Buisness Tools</a>
@@ -192,7 +195,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">AI Image Tools</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -222,6 +225,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Image Tools</a>
@@ -233,7 +237,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">Automation Tools</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -263,6 +267,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Automation Tools</a>
@@ -274,7 +279,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">AI Art Generators</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -304,6 +309,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Art Tools</a>
@@ -315,7 +321,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">Misc AI Tools</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -345,6 +351,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Misc Tools</a>
@@ -356,7 +363,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">AI Code Tools</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -386,6 +393,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Code Tools</a>
@@ -397,7 +405,7 @@ function AiTool() {
 
 <div className="flex flex-col">
 <h2 className="text-3xl font-semibold text-slate-800">AI Audio tools</h2>
-<div className="block"></div>
+<div className="block">
 <div className="capitalize">
   <div className="flex gap-1 text-slate-800 transition-colors hover:text-slate-500">
     <a href=""> Personal assistant </a>
@@ -427,6 +435,7 @@ function AiTool() {
     <a href=""> Presentations </a>
     <span>(48)</span>
   </div>
+</div>
 </div>
 <div className='mt-auto pt-4'>
   <a href="" className='text-blue-500 transition-colors hover:text-blue-400 text-start' >Show all AI Audio Tools</a>
