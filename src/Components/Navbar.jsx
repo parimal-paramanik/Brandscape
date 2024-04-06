@@ -6,7 +6,7 @@ import { FiSearch } from "react-icons/fi";
 
 function Navbar() {
   return (
-    <div className='fixed top-0 left-0 w-full bg-[#E1EFFA] px-8 py-4 flex justify-between items-center'>
+    <div className='fixed z-50 top-0 left-0 w-full bg-[#E1EFFA] px-8 py-4 flex justify-between items-center'>
         <div>
           <Link to="/" >  <img src={LogoImg} loading='lazy' className='w-[171px] h-[35px]' /></Link>
 
