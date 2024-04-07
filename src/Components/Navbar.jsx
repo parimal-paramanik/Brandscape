@@ -21,7 +21,7 @@ function Navbar() {
             <Link className="hover:underline hover:underline-offset-1 hover:text-gray-500">Resources</Link>
             <div className="absolute w-48 mr-92 hidden   bg-white rounded-lg shadow-lg group-hover:block">
                 <Link to="/newsletter" className="block px-4 hover:underline hover:underline-offset-1  py-2 text-sm text-gray-800 hover:bg-gray-200">Newsletter</Link>
-                <Link className="block px-4 hover:underline hover:underline-offset-1 py-2 text-sm text-gray-800 hover:bg-gray-200">AI Conferences</Link>
+                <Link to="/ai-conference"   className="block px-4 hover:underline hover:underline-offset-1 py-2 text-sm text-gray-800 hover:bg-gray-200">AI Conferences</Link>
             </div>
         </div>
 
