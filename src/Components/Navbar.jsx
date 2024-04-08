@@ -14,7 +14,7 @@ function Navbar() {
 
         <div className='flex gap-8'>
             <Link to="ai-tool" className="hover:underline hover:underline-offset-1  hover:text-gray-500">AI Tool Categories</Link>
-            <Link className="hover:underline hover:underline-offset-1  hover:text-gray-500">Deals</Link>
+            <Link to="/deals"  className="hover:underline hover:underline-offset-1  hover:text-gray-500">Deals</Link>
             <Link to="/submit-tool" className="hover:underline hover:underline-offset-1  hover:text-gray-500">Submit A Tool</Link>
             <Link className="hover:underline hover:underline-offset-1  hover:text-gray-500">Advertise</Link>
             <div className="relative inline-block group">
